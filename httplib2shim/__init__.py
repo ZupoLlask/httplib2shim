@@ -22,7 +22,7 @@
 
 import collections
 import errno
-import httplib
+import http.client as httplib
 import socket
 import ssl
 import warnings
